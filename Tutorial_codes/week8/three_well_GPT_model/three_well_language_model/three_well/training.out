@@ -1,0 +1,11 @@
+nohup: ignoring input
+Leo,  We are using :  cuda:7 for computation
+Epoch 0, Loss: 0.2081
+Traceback (most recent call last):
+  File "/home/nageshbe/IISc_tutorial/three_well_language_model/three_well/training.py", line 60, in <module>
+    loss.backward()
+  File "/home/nageshbe/miniconda3/envs/gpt_PL_project/lib/python3.11/site-packages/torch/_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "/home/nageshbe/miniconda3/envs/gpt_PL_project/lib/python3.11/site-packages/torch/autograd/__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt
