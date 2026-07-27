@@ -4,8 +4,11 @@ Notes folder Contains the mathematical formulation of the models
 Tutorial Codes contains the codes for Models
 Everything has been done from scratch
 I took help from LLMs (GPT , Gemini) for latex and some codes.
-Happy learning
-# WISDOM WITHOUT COMPASSION IS BARREN AND COMPASSION WITHOUT WISDOM IS BLINDNESS
+Happy learning......
+
+WISDOM WITHOUT COMPASSION IS BARREN AND COMPASSION WITHOUT WISDOM IS BLINDNESS
+(A Buddist Teaching)
+
 
 
 
