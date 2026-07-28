@@ -10,7 +10,6 @@ Tutorial Codes contains the codes for Models.
 
 Everything has been done from scratch.
 
-I took help from LLMs (GPT , Gemini) for latex and some codes.
 
 Happy learning......
 
