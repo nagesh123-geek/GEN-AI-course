@@ -5,9 +5,13 @@ You will find image generation models namely, GAN, VAE , DDPM and Flow and Langu
 You will also find Reinforcement Learning models.
 
 Notes folder Contains the mathematical formulation of the models.
+
 Tutorial Codes contains the codes for Models.
+
 Everything has been done from scratch.
+
 I took help from LLMs (GPT , Gemini) for latex and some codes.
+
 Happy learning......
 
 
