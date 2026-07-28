@@ -18,7 +18,10 @@ Happy learning......
 I have written a file named "intro.pdf" , its about my current views on human life as a whole. Please have a look at it.
 (Initially I tried to write it on intro to human intelligence, over time , with flow I end up where I'm now(No wonder , just classic me))
 
-WISDOM WITHOUT COMPASSION IS BARREN AND COMPASSION WITHOUT WISDOM IS BLINDNESS
+WISDOM WITHOUT COMPASSION IS BARREN
+
+COMPASSION WITHOUT WISDOM IS BLINDNESS
+
 (A Buddist Teaching)
 
 
