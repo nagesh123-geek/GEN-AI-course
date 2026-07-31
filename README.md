@@ -17,9 +17,3 @@ Happy learning......
 WISDOM WITHOUT COMPASSION IS BARREN
 
 COMPASSION WITHOUT WISDOM IS BLINDNESS
-
-(A Buddist Teaching)
-
-
-
-
